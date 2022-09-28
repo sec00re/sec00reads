@@ -3,3 +3,4 @@
 1. [After You Get Your Puppy](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf) (april 2022)
 1. [Android Internals - A Confectioner's Cookbook - Volume I](http://www.newandroidbook.com/AIvI-M-RL1.pdf) (april 2022)
 1. [POC||GTFO 21](https://www.alchemistowl.org/pocorgtfo/pocorgtfo21.pdf) (april 2022)
+1. [Documentation and Analysis of the Linux Random Number Generator](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/LinuxRNG/LinuxRNG_EN_V4_5.pdf?__blob=publicationFile) (september 2022)
